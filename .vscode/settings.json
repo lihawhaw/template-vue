@@ -1,0 +1,21 @@
+{
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "editor.tabSize": 2,
+  // "editor.formatOnSave": true,
+  // "editor.codeActionsOnSave": ["source.fixAll"],
+  // "less.validate": false
+  "less.lint.unknownAtRules": "ignore",
+  "eslint.validate": ["javascript", "javascriptreact", "vue"],
+  "vetur.validation.template": false
+}
