@@ -1,10 +1,38 @@
 {
   "index.html": {
-    "file": "assets/index.2324e510.js",
+    "file": "assets/index.8e38f9dd.js",
     "src": "index.html",
     "isEntry": true,
+    "imports": [
+      "_vue.e9ede0e9.js",
+      "_todo.2e66736f.js",
+      "_home.1d95160e.js",
+      "_about.8c54a5cf.js"
+    ],
     "css": [
-      "assets/index.8efee370.css"
+      "assets/index.d9e48253.css"
+    ]
+  },
+  "_vue.e9ede0e9.js": {
+    "file": "assets/vue.e9ede0e9.js"
+  },
+  "_home.1d95160e.js": {
+    "file": "assets/home.1d95160e.js",
+    "imports": [
+      "_vue.e9ede0e9.js"
+    ]
+  },
+  "_about.8c54a5cf.js": {
+    "file": "assets/about.8c54a5cf.js",
+    "imports": [
+      "_home.1d95160e.js",
+      "_vue.e9ede0e9.js"
+    ]
+  },
+  "_todo.2e66736f.js": {
+    "file": "assets/todo.2e66736f.js",
+    "imports": [
+      "_vue.e9ede0e9.js"
     ]
   }
 }
