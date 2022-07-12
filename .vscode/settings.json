@@ -12,8 +12,8 @@
     "editor.defaultFormatter": "Vue.volar"
   },
   "editor.tabSize": 2,
-  // "editor.formatOnSave": true,
-  // "editor.codeActionsOnSave": ["source.fixAll"],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": ["source.fixAll"],
   // "less.validate": false
   "less.lint.unknownAtRules": "ignore",
   "eslint.validate": ["javascript", "javascriptreact", "vue"],
