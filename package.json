@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "prettier": "prettier --config .prettierrc --write src"
+    "prettier": "prettier --config .prettierrc --write src",
+    "prepare": "husky install"
   },
   "dependencies": {
     "pinia": "^2.0.15",
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@types/node": "^18.0.3",
     "@vitejs/plugin-vue": "^2.3.3",
+    "husky": "^8.0.1",
     "prettier": "^2.7.1",
     "stylelint": "^14.9.1",
     "stylelint-config-standard": "^26.0.0",
