@@ -1,31 +1,31 @@
 {
   "index.html": {
-    "file": "assets/index.8e38f9dd.js",
+    "file": "assets/index.dc2ccbca.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vue.e9ede0e9.js",
       "_todo.2e66736f.js",
-      "_home.1d95160e.js",
-      "_about.8c54a5cf.js"
+      "_home.8799b5ea.js",
+      "_about.941cacc1.js"
     ],
     "css": [
-      "assets/index.d9e48253.css"
+      "assets/index.706fe871.css"
     ]
   },
   "_vue.e9ede0e9.js": {
     "file": "assets/vue.e9ede0e9.js"
   },
-  "_home.1d95160e.js": {
-    "file": "assets/home.1d95160e.js",
+  "_home.8799b5ea.js": {
+    "file": "assets/home.8799b5ea.js",
     "imports": [
       "_vue.e9ede0e9.js"
     ]
   },
-  "_about.8c54a5cf.js": {
-    "file": "assets/about.8c54a5cf.js",
+  "_about.941cacc1.js": {
+    "file": "assets/about.941cacc1.js",
     "imports": [
-      "_home.1d95160e.js",
+      "_home.8799b5ea.js",
       "_vue.e9ede0e9.js"
     ]
   },
@@ -34,5 +34,9 @@
     "imports": [
       "_vue.e9ede0e9.js"
     ]
+  },
+  "index.css": {
+    "file": "assets/index.706fe871.css",
+    "src": "index.css"
   }
 }
