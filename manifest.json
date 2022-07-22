@@ -1,38 +1,38 @@
 {
   "index.html": {
-    "file": "assets/index.f2336ea3.js",
+    "file": "assets/index.a2e0b787.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vue.e9ede0e9.js",
-      "_todo.135f2ce1.js",
-      "_home.8799b5ea.js",
-      "_about.941cacc1.js"
+      "_vue.441fb77f.js",
+      "_todo.b7a994f2.js",
+      "_home.d7343adc.js",
+      "_about.b3c9e3b3.js"
     ],
     "css": [
       "assets/index.706fe871.css"
     ]
   },
-  "_vue.e9ede0e9.js": {
-    "file": "assets/vue.e9ede0e9.js"
+  "_vue.441fb77f.js": {
+    "file": "assets/vue.441fb77f.js"
   },
-  "_home.8799b5ea.js": {
-    "file": "assets/home.8799b5ea.js",
+  "_home.d7343adc.js": {
+    "file": "assets/home.d7343adc.js",
     "imports": [
-      "_vue.e9ede0e9.js"
+      "_vue.441fb77f.js"
     ]
   },
-  "_about.941cacc1.js": {
-    "file": "assets/about.941cacc1.js",
+  "_about.b3c9e3b3.js": {
+    "file": "assets/about.b3c9e3b3.js",
     "imports": [
-      "_home.8799b5ea.js",
-      "_vue.e9ede0e9.js"
+      "_home.d7343adc.js",
+      "_vue.441fb77f.js"
     ]
   },
-  "_todo.135f2ce1.js": {
-    "file": "assets/todo.135f2ce1.js",
+  "_todo.b7a994f2.js": {
+    "file": "assets/todo.b7a994f2.js",
     "imports": [
-      "_vue.e9ede0e9.js"
+      "_vue.441fb77f.js"
     ]
   },
   "index.css": {
