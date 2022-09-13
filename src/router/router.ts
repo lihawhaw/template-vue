@@ -10,7 +10,7 @@ const routes = [
 ]
 
 const router = VueRouter.createRouter({
-  history: VueRouter.createWebHashHistory(import.meta.env.VITE_APP_BASE),
+  history: VueRouter.createWebHistory(),
   routes,
 })
 
