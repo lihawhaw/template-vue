@@ -4,7 +4,7 @@ import { resolve } from 'path'
 import WindiCSS from 'vite-plugin-windicss'
 
 export default defineConfig(({ command }) => {
-  const base = command === 'build' ? 'https://qiankun-1256651264.cos-website.ap-shanghai.myqcloud.com': '/'
+  const base = command === 'build' ? 'https://qiankun-1256651264.cos-website.ap-shanghai.myqcloud.com/template-vue/': '/'
 
   return {
     base,
