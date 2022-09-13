@@ -1,14 +1,13 @@
-import { defineConfig, loadEnv, splitVendorChunkPlugin } from 'vite'
+import { defineConfig, splitVendorChunkPlugin } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { resolve } from 'path'
 import WindiCSS from 'vite-plugin-windicss'
 
-export default defineConfig(({ mode }) => {
-  const env = loadEnv(mode, process.cwd(), '')
+export default defineConfig(({ command }) => {
+  const base = command === 'build' ? 'https://qiankun-1256651264.cos-website.ap-shanghai.myqcloud.com': '/'
 
-  console.log('VITE_APP_BASE', env.VITE_APP_BASE)
   return {
-    base: env.VITE_APP_BASE,
+    base,
     plugins: [vue(), WindiCSS(), splitVendorChunkPlugin],
     resolve: {
       alias: {
