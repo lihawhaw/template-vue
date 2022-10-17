@@ -9,7 +9,7 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: pnpm/action-setup@v2
+      - uses: pnpm/action-setup@v2.2.4
         with:
           version: ^7
       - uses: actions/checkout@v3
