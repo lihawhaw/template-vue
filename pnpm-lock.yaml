@@ -9,7 +9,7 @@ specifiers:
   pinia: ^2.0.22
   prettier: ^2.7.1
   stylelint: ^15.0.0
-  stylelint-config-standard: ^31.0.0
+  stylelint-config-standard: ^32.0.0
   typescript: ^4.8.3
   vite: ^3.1.0
   vite-plugin-windicss: ^1.8.8
@@ -31,7 +31,7 @@ devDependencies:
   husky: 8.0.1
   prettier: 2.7.1
   stylelint: 15.0.0
-  stylelint-config-standard: 31.0.0_stylelint@15.0.0
+  stylelint-config-standard: 32.0.0_stylelint@15.0.0
   typescript: 4.8.3
   vite: 3.1.0
   vite-plugin-windicss: 1.8.8_vite@3.1.0
@@ -2117,10 +2117,10 @@ packages:
       stylelint: 15.0.0
     dev: true
 
-  /stylelint-config-standard/31.0.0_stylelint@15.0.0:
-    resolution: {integrity: sha512-CUGAmtROCvX0YgMY2+6P9tqSkHj5z/75XxrQ8bGxvkCa1xYdGDx4poM0pa7cXc3s74/PZLJH/okxZZouRfOSGw==}
+  /stylelint-config-standard/32.0.0_stylelint@15.0.0:
+    resolution: {integrity: sha512-UnGJxYDyYFrIE9CjDMZRkrNh2o4lOtO+MVZ9qG5b8yARfsWho0GMx4YvhHfsv8zKKgHeWX2wfeyxmuoqcaYZ4w==}
     peerDependencies:
-      stylelint: ^15.3.0
+      stylelint: ^15.4.0
     dependencies:
       stylelint: 15.0.0
       stylelint-config-recommended: 11.0.0_stylelint@15.0.0
