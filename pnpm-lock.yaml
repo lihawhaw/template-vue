@@ -9,7 +9,7 @@ specifiers:
   pinia: ^2.0.22
   prettier: ^2.7.1
   stylelint: ^15.0.0
-  stylelint-config-standard: ^32.0.0
+  stylelint-config-standard: ^33.0.0
   typescript: ^4.8.3
   vite: ^3.1.0
   vite-plugin-windicss: ^1.8.8
@@ -31,7 +31,7 @@ devDependencies:
   husky: 8.0.1
   prettier: 2.7.1
   stylelint: 15.0.0
-  stylelint-config-standard: 32.0.0_stylelint@15.0.0
+  stylelint-config-standard: 33.0.0_stylelint@15.0.0
   typescript: 4.8.3
   vite: 3.1.0
   vite-plugin-windicss: 1.8.8_vite@3.1.0
@@ -2109,21 +2109,21 @@ packages:
     resolution: {integrity: sha512-Dj1Okke1C3uKKwQcetra4jSuk0DqbzbYtXipzFlFMZtowbF1x7BKJwB9AayVMyFARvU8EDrZdcax4At/452cAg==}
     dev: true
 
-  /stylelint-config-recommended/11.0.0_stylelint@15.0.0:
-    resolution: {integrity: sha512-SoGIHNI748OCZn6BxFYT83ytWoYETCINVHV3LKScVAWQQauWdvmdDqJC5YXWjpBbxg2E761Tg5aUGKLFOVhEkA==}
+  /stylelint-config-recommended/12.0.0_stylelint@15.0.0:
+    resolution: {integrity: sha512-x6x8QNARrGO2sG6iURkzqL+Dp+4bJorPMMRNPScdvaUK8PsynriOcMW7AFDKqkWAS5wbue/u8fUT/4ynzcmqdQ==}
     peerDependencies:
-      stylelint: ^15.3.0
+      stylelint: ^15.5.0
     dependencies:
       stylelint: 15.0.0
     dev: true
 
-  /stylelint-config-standard/32.0.0_stylelint@15.0.0:
-    resolution: {integrity: sha512-UnGJxYDyYFrIE9CjDMZRkrNh2o4lOtO+MVZ9qG5b8yARfsWho0GMx4YvhHfsv8zKKgHeWX2wfeyxmuoqcaYZ4w==}
+  /stylelint-config-standard/33.0.0_stylelint@15.0.0:
+    resolution: {integrity: sha512-eyxnLWoXImUn77+ODIuW9qXBDNM+ALN68L3wT1lN2oNspZ7D9NVGlNHb2QCUn4xDug6VZLsh0tF8NyoYzkgTzg==}
     peerDependencies:
-      stylelint: ^15.4.0
+      stylelint: ^15.5.0
     dependencies:
       stylelint: 15.0.0
-      stylelint-config-recommended: 11.0.0_stylelint@15.0.0
+      stylelint-config-recommended: 12.0.0_stylelint@15.0.0
     dev: true
 
   /stylelint/15.0.0:
