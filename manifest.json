@@ -1,11 +1,11 @@
 {
   "index.html": {
-    "file": "assets/index.0da49a73.js",
+    "file": "assets/index.41ea460e.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_vue.21fd0a25.js",
-      "_todo.b2444c07.js",
+      "_todo.7acdfbdd.js",
       "_home.7ede5557.js",
       "_about.af252b46.js"
     ],
@@ -29,8 +29,8 @@
       "_vue.21fd0a25.js"
     ]
   },
-  "_todo.b2444c07.js": {
-    "file": "assets/todo.b2444c07.js",
+  "_todo.7acdfbdd.js": {
+    "file": "assets/todo.7acdfbdd.js",
     "imports": [
       "_vue.21fd0a25.js"
     ]
