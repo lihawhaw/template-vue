@@ -32,8 +32,8 @@ devDependencies:
     specifier: ^8.0.3
     version: 8.0.3
   prettier:
-    specifier: ^2.7.1
-    version: 2.7.1
+    specifier: ^3.0.0
+    version: 3.0.0
   stylelint:
     specifier: ^15.0.0
     version: 15.0.0
@@ -1873,9 +1873,9 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /prettier@2.7.1:
-    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
-    engines: {node: '>=10.13.0'}
+  /prettier@3.0.0:
+    resolution: {integrity: sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: true
 
