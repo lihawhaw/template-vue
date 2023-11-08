@@ -1,38 +1,38 @@
 {
   "index.html": {
-    "file": "assets/index.ecb8d5a8.js",
+    "file": "assets/index.f4daa7f0.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vue.1cd9f13d.js",
-      "_todo.95482022.js",
-      "_home.d2e8be20.js",
-      "_about.f6790afe.js"
+      "_vue.9686ebfa.js",
+      "_todo.507e52f5.js",
+      "_home.34ab90fa.js",
+      "_about.c5dc300a.js"
     ],
     "css": [
       "assets/index.706fe871.css"
     ]
   },
-  "_vue.1cd9f13d.js": {
-    "file": "assets/vue.1cd9f13d.js"
+  "_vue.9686ebfa.js": {
+    "file": "assets/vue.9686ebfa.js"
   },
-  "_home.d2e8be20.js": {
-    "file": "assets/home.d2e8be20.js",
+  "_home.34ab90fa.js": {
+    "file": "assets/home.34ab90fa.js",
     "imports": [
-      "_vue.1cd9f13d.js"
+      "_vue.9686ebfa.js"
     ]
   },
-  "_about.f6790afe.js": {
-    "file": "assets/about.f6790afe.js",
+  "_about.c5dc300a.js": {
+    "file": "assets/about.c5dc300a.js",
     "imports": [
-      "_home.d2e8be20.js",
-      "_vue.1cd9f13d.js"
+      "_home.34ab90fa.js",
+      "_vue.9686ebfa.js"
     ]
   },
-  "_todo.95482022.js": {
-    "file": "assets/todo.95482022.js",
+  "_todo.507e52f5.js": {
+    "file": "assets/todo.507e52f5.js",
     "imports": [
-      "_vue.1cd9f13d.js"
+      "_vue.9686ebfa.js"
     ]
   },
   "index.css": {
